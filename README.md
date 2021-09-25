@@ -1,12 +1,5 @@
 # CSC4110-assignment1
 Tyler Webb
+
 gv7491
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
-# CSC4110-assignment1
+
